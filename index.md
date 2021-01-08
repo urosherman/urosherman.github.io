@@ -6,7 +6,7 @@ I am Uroš Herman, a PhD Candidate in Economics at GSEFM, Goethe University Fran
 Heterogeneous Agent Models, Business Cycles, Monetary Economics, Labour Market, International Macroeconomics
 
 ### CV
-Here you can find my [CV](https://drive.google.com/file/d/13y5XqYtJVLDJlNgmHzjyD3TErrXdyche/view?usp=sharing)
+Here you can find my [CV](https://drive.google.com/file/d/13y5XqYtJVLDJlNgmHzjyD3TErrXdyche/view?usp=sharing).
 
 
 You can use the [editor on GitHub](https://github.com/urosherman/urosherman.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
