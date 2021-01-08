@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
 title: Uroš Herman
+
+layout: page
+title: "Research"
+permalink: /reasearch/
