@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Homepage!
+
+I am Uroš Herman, a PhD Candidate in Economics at GSEFM, Goethe University Frankfurt
 
 You can use the [editor on GitHub](https://github.com/urosherman/urosherman.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
