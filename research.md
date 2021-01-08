@@ -1,3 +1,7 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /reasearch/
+---
+layout: "page"
+title: Research
+permalink: /research/
+---
+
+blabla
