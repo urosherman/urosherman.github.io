@@ -1,4 +1,4 @@
-## Welcome to my Homepage!
+# Welcome to my Homepage!
 
 I am Uroš Herman, a PhD Candidate in Economics at GSEFM, Goethe University Frankfurt
 
