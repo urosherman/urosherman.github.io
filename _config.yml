@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 title: Uroš Herman
 description: 
 logo: UHTwitter.jpg
-
+github:
+is\_project\_page:false
