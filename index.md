@@ -20,4 +20,4 @@ Here you can find my [CV](https://drive.google.com/file/d/13y5XqYtJVLDJlNgmHzjyD
 
 
 
-For more information se also my [Google Homepage](https://sites.google.com/view/uherman/)!
+For more information see also my [Google Homepage](https://sites.google.com/view/uherman/)!
