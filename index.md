@@ -10,10 +10,10 @@ Here you can find my [CV](https://drive.google.com/file/d/13y5XqYtJVLDJlNgmHzjyD
 
 ### Research
 
-# Exposure to Aggregate Fuctuations, Employment risk and Asset Allocation (Job Market Paper)
-# Who Gets Jobs Matters: Monetary Policy and the Labour Market (with M.Lozej)
-# Determinants of Countries’ External Capital Structure: A Firm-Level Analysis (with T. Krahnke)
-# Cross-Border Bank Funding Supply and the Bank Lending Channel in a Monetary Union: Evidence from Slovenia (with M.Lozej), Revise and resubmit at Journal of International Money and Finance
+- Exposure to Aggregate Fuctuations, Employment risk and Asset Allocation (Job Market Paper)
+- Who Gets Jobs Matters: Monetary Policy and the Labour Market (with M.Lozej)
+- Determinants of Countries’ External Capital Structure: A Firm-Level Analysis (with T. Krahnke)
+- Cross-Border Bank Funding Supply and the Bank Lending Channel in a Monetary Union: Evidence from Slovenia (with M.Lozej), Revise and resubmit at Journal of International Money and Finance
 
 For some older research see [CV](https://drive.google.com/file/d/13y5XqYtJVLDJlNgmHzjyD3TErrXdyche/view?usp=sharing)
 
