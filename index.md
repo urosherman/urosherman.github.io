@@ -8,6 +8,7 @@ Heterogeneous Agent Models, Business Cycles, Monetary Economics, Labour Market, 
 ### Research
 
 - Exposure to Aggregate Fuctuations, Employment risk and Asset Allocation (Job Market Paper)
+[First draft coming soon!]
 - Who Gets Jobs Matters: Monetary Policy and the Labour Market (with M.Lozej)
 - Determinants of Countries’ External Capital Structure: A Firm-Level Analysis (with T. Krahnke)
 - Cross-Border Bank Funding Supply and the Bank Lending Channel in a Monetary Union: Evidence from Slovenia (with M.Lozej), Revise and resubmit at Journal of International Money and Finance
