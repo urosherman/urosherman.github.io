@@ -13,7 +13,7 @@ Heterogeneous Agent Models, Business Cycles, Monetary Economics, Labour Market, 
 - Determinants of Countries’ External Capital Structure: A Firm-Level Analysis (with T. Krahnke)
 - Cross-Border Bank Funding Supply and the Bank Lending Channel in a Monetary Union: Evidence from Slovenia (with M.Lozej), _Forthcoming in Journal of International Money and Finance_
 
-For some older research see my CV.
+For some older research see my [CV](https://drive.google.com/file/d/13y5XqYtJVLDJlNgmHzjyD3TErrXdyche/view?usp=sharing).
 
 ### CV
 Here you can find my [CV](https://drive.google.com/file/d/13y5XqYtJVLDJlNgmHzjyD3TErrXdyche/view?usp=sharing).
