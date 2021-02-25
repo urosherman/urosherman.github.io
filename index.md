@@ -18,4 +18,4 @@ Here you can find my [CV](https://drive.google.com/file/d/13y5XqYtJVLDJlNgmHzjyD
 For some older research see my [CV](https://drive.google.com/file/d/13y5XqYtJVLDJlNgmHzjyD3TErrXdyche/view?usp=sharing).
 
 
-For more information see also my [Google Homepage](https://sites.google.com/view/uherman/)!
+More information you can find on my [Google Homepage](https://sites.google.com/view/uherman/)!
