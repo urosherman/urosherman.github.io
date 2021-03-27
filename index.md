@@ -3,7 +3,7 @@
 I am a PhD Candidate in Economics at GSEFM, Goethe University Frankfurt, Germany
 
 ### Research Interests 
-Heterogeneous Agent Models, Business Cycles, Monetary Economics, Labour Market, International Finance and Macroeconomics
+Heterogeneous Agent Models, Macroeconomics, Monetary Economics, Labour Market, International Finance and Macroeconomics
 
 ### CV
 Here you can find my [CV](https://drive.google.com/file/d/13y5XqYtJVLDJlNgmHzjyD3TErrXdyche/view?usp=sharing).
