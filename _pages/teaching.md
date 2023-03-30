@@ -8,13 +8,14 @@ nav_order: 5
 ---
 
 #### Johannes Gutenberg-University, Mainz
-##### New Keynesian Economics (M.Sc.)   
+##### New Keynesian Economics (MSc)   
 ###### Lectures, WS 2018/19
 ###### Tutorials, WS 2018/19
-##### International Monetary Systems (B.Sc.)
+##### International Monetary Systems (BSc)
 ###### Seminar, 2017 - 2020
-##### International Financial Architecture (M.Sc.)
+##### International Financial Architecture (MSc)
 ###### Tutorials / Seminar, WS 2017 - 2019
-##### International Money and Finance (M.Sc.)
+##### International Money and Finance (MSc)
 ###### Tutorials / Seminar, SS 2017 
-##### Supervision of B.Sc. and M.Sc. theses ###### (2017 - 2020)
+##### Supervision of BSc and MSc theses 
+###### 2017 - 2020
