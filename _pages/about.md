@@ -5,7 +5,7 @@ permalink: /
 subtitle: contact me @ <a href='#'>herman.uros@gmail.com</a> or <a href='#'>uros.herman@its.uni-frankfurt.de</a>
 
 profile:
-  align: left
+  align: right
   image: UHTwitter.jpg
   image_circular: true # crops the image to make it circular
   address: >
