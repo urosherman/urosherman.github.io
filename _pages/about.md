@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: contact me @ <a href='#'>herman.uros@gmail.com</a>
+subtitle: contact me @ <a href='#'>herman.uros@gmail.com</a> or <a href='#'>uros.herman@its.uni-frankfurt.de</a>
 
 profile:
   align: left
