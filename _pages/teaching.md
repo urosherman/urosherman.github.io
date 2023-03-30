@@ -16,11 +16,11 @@ nav_order: 5
 ##### International Monetary Systems (BSc)
 - Seminar, 2017 - 2020
 
+##### International Money and Finance (MSc)
+- Tutorials / Seminar, SS 2017  
+
 ##### International Financial Architecture (MSc)
 - Tutorials / Seminar, WS 2017 - 2019
-
-##### International Money and Finance (MSc)
-- Tutorials / Seminar, SS 2017 
 
 ##### Supervision of BSc and MSc theses 
 - 2017 - 2020
