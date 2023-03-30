@@ -17,5 +17,4 @@ nav_order: 5
 ###### Tutorials / Seminar, WS 2017 - 2019
 ##### International Money and Finance (M.Sc.)
 ###### Tutorials / Seminar, SS 2017 
-###### Supervision of B.Sc. and M.Sc. theses
- 2017 - 2020
+##### Supervision of B.Sc. and M.Sc. theses (2017 - 2020)
