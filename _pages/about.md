@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: UHTwitter.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
