@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: contact me @ <a href='#'>herman.uros@gmail.com</a>
 
 profile:
   align: left
