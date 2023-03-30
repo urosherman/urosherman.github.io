@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 #### Johannes Gutenberg-University, Mainz
-##### New Keynesian Economics (MSc)   
+- New Keynesian Economics (MSc)   
 ###### Lectures, WS 2018/19
 ###### Tutorials, WS 2018/19
 ##### International Monetary Systems (BSc)
