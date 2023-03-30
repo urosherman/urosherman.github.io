@@ -2,11 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+#### Johannes Gutenberg-University, Mainz
+##### New Keynesian Economics (M.Sc.)   
+###### Lectures, WS 2018/19
+###### Tutorials, WS 2018/19
+##### International Monetary Systems (B.Sc.)
+###### Seminar, 2017 - 2020
+##### International Financial Architecture (M.Sc.)
+###### Tutorials / Seminar, WS 2017 - 2019
+##### International Money and Finance (M.Sc.)
+###### Tutorials / Seminar, SS 2017 
+###### Supervision of B.Sc. and M.Sc. theses
+ 2017 - 2020
