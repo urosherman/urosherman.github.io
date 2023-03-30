@@ -15,7 +15,7 @@ nav_order: 5
 
 ##### International Monetary Systems (BSc)
 - Seminar, 2017 - 2020
-- 
+
 ##### International Financial Architecture (MSc)
 - Tutorials / Seminar, WS 2017 - 2019
 
