@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /research/
+title: research
 description: 
 years: [2021, 1967, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 2
 ---
 <!-- _pages/publications.md -->
-<div class="publications">
+<div class="research">
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
