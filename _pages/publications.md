@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: research
-description: For some older research see also __CV__
+description: For some older research see also CV
 years: [2023, 2022, 2021, 2016]
 nav: true
 nav_order: 2
