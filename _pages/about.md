@@ -18,7 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-## This page is under construction! Please see my old [homepage](https://sites.google.com/view/uherman).
+# This page is under construction! 
+## Please see my old [homepage](https://sites.google.com/view/uherman).
 
 Welcome to my homepage. I am a PhD Candidate at the [Graduate School of Economics, Finance and Management](https://www.gsefm.eu/about-us.html) (GSEFM) at [Goethe University Frankfurt](https://www.wiwi.uni-frankfurt.de/en/home.html), Germany. 
 
