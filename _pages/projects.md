@@ -1,7 +1,7 @@
 ---
 layout: page
-title: research
-permalink: /research/
+title: projects
+permalink: /projects/
 description: ...what I work on... to be done!
 nav: true
 nav_order: 3
