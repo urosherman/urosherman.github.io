@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: research
 description: For some older research see also my CV
-years: [2023, 2022, 2021, 1967, 1956, 1950, 1935, 1905]
+years: [2023, 2022, 2021, 2016]
 nav: true
 nav_order: 2
 ---
