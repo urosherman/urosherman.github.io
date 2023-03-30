@@ -4,8 +4,8 @@ title: projects
 permalink: /projects/
 description: ...what I work on... to be done!
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 3
+display_categories: 
 horizontal: false
 ---
 
