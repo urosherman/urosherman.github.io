@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 # This page is under construction!
 
-Welcome to my homepage. I am a PhD Candidate at the Graduate School of Economics, Finance and Management ([GSEFM](https://www.gsefm.eu/about-us.html)) at [Goethe University Frankfurt](https://www.wiwi.uni-frankfurt.de/en/home.html), Germany. 
+Welcome to my homepage. I am a PhD Candidate at the [Graduate School of Economics, Finance and Management](https://www.gsefm.eu/about-us.html) (GSEFM) at [Goethe University Frankfurt](https://www.wiwi.uni-frankfurt.de/en/home.html), Germany. 
 
 My research interests lie primarily in `macroeconomics`, with a special focus on monetary and fiscal policy within `Heterogeneous-Agent New Keynesian models` and the intersection of macroeconomics with `international and corporate finance`. 
 
