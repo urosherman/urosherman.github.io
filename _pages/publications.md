@@ -3,7 +3,6 @@ layout: page
 permalink: /publications/
 title: research
 description: For some older research see also CV
-cv_pdf: HermanCV.pdf 
 years: [2023, 2022, 2021, 2016]
 nav: true
 nav_order: 2
