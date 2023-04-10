@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have updated [Sectoral Exposure to Aggregate Fluctuations, Employment Risk and Monetary Policy (Job Market Paper)](/pdf/herman_twosector.pdf)
+I have updated [Sectoral Exposure to Aggregate Fluctuations, Employment Risk and Monetary Policy (Job Market Paper)](https://drive.google.com/file/d/1IhxxZQd-_iwrBtQYH2dTJysVaKN6IWyq/view?usp=share_link)
