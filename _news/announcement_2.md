@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have updated my Job Market Paper 
+I have updated my [Job Market Paper](herman_twosector.pdf)
