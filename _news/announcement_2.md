@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have updated my [Job Market Paper](herman_twosector.pdf)
+I have updated my [Sectoral Exposure to Aggregate Fluctuations, Employment Risk and Monetary Policy (Job Market Paper)](/pdf/herman_twosector.pdf)
