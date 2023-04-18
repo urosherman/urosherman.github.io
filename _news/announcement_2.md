@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Who Gets Jobs Matters: Monetary Policy and the Labour Market in HANK and SAM has been updated A news entry linking to the [research](publications) page
+[Who Gets Jobs Matters: Monetary Policy and the Labour Market in HANK and SAM](/assets/pdf/HANK_SAM_April 2023.pdf) has been updated
