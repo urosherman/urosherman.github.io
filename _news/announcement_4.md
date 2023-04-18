@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Link to my JMP [Sectoral Exposure to Aggregate Fluctuations,Employment Risk and Monetary Policy](/assets/pdf/herman_twosector.pdf) 
+Here is link to my JMP [Sectoral Exposure to Aggregate Fluctuations,Employment Risk and Monetary Policy](/assets/pdf/herman_twosector.pdf) 
