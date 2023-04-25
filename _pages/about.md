@@ -22,4 +22,4 @@ Welcome to my homepage. I am a PhD Candidate at the [Graduate School of Economic
 
 My research interests lie primarily in `macroeconomics`, with a special focus on monetary and fiscal policy within `Heterogeneous-Agent New Keynesian models` and the intersection of macroeconomics with `international and corporate finance`. 
 
-From 2009 to 2015 I worked as a (senior-)macroeconomist in the Analysis and Research Department @ [Bank of Slovenia](https://www.bsi.si/en).
+From 2009 to 2015 I worked as a (senior-)economist in the Analysis and Research Department @ [Bank of Slovenia](https://www.bsi.si/en).
