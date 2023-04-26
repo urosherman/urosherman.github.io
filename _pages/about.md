@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my homepage. I am a PhD Candidate at the [Graduate School of Economics, Finance and Management](https://www.gsefm.eu/about-us.html) (GSEFM) at [Goethe University Frankfurt](https://www.wiwi.uni-frankfurt.de/en/home.html), Germany. 
 
-My research interests lie primarily in `macroeconomics`, with a special focus on monetary and fiscal policy within `Heterogeneous-Agent New Keynesian models`, and the intersection of macroeconomics with `international and corporate finance`. My research can be found [here](/al-folio/publications/). 
+My research interests lie primarily in `macroeconomics`, with a special focus on monetary and fiscal policy within `Heterogeneous-Agent New Keynesian models`, and the intersection of macroeconomics with `international and corporate finance`. My research can be found [here](/al-folio/research/). 
 
 From 2009 to 2015 I worked as a (Senior) Economist in the Analysis and Research Department @ [Bank of Slovenia](https://www.bsi.si/en).
