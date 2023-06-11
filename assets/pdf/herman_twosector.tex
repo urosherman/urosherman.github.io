@@ -1,0 +1,202 @@
+\documentclass[12pt, a4paper]{article}
+\setlength{\oddsidemargin}{0.5cm}
+\setlength{\evensidemargin}{0.5cm}
+\setlength{\topmargin}{-1.6cm}
+\setlength{\leftmargin}{0.5cm}
+\setlength{\rightmargin}{0.5cm}
+\setlength{\textheight}{24.00cm} 
+\setlength{\textwidth}{15.00cm}
+\parindent 15pt
+\parskip 0pt
+\pagestyle{plain}
+
+%%%%%%%%%%%% Packages
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{booktabs,caption}
+\usepackage[flushleft]{threeparttable}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{float}
+\usepackage[italicdiff]{physics} 
+\usepackage{amssymb}
+
+%\usepackage{charter}
+%\usepackage{tgpagella}
+
+%%%%%%%%%%  FONTS PACKAGES %%%%%%%%%%%
+%%%% OPTION 1
+%\usepackage[sc]{mathpazo}    % Palatino with smallcaps
+%\usepackage[scaled]{helvet}  % Helvetica, scaled 95
+%\usepackage[T1]{fontenc}
+
+%%%% OPTION 2
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo}
+%\usepackage{newpxtext,newpxmath}  % if you add this one, it will be more ``squeezed''
+
+%%%% OPTION 3
+%\usepackage[sc]{mathpazo}
+%\linespread{1.05}         % Palladio needs more leading (space between lines)
+%\usepackage[T1]{fontenc}
+
+%%%% OPTION 4
+%\usepackage{kpfonts}
+%\usepackage[T1]{fontenc}
+
+%%%% OPTION 5
+%\usepackage{libertinus}
+%\usepackage[T1]{fontenc}}
+
+%%%% OPTION 6
+%\usepackage{pxfonts}
+%\usepackage[T1]{fontenc}
+
+%%%% OPTION 7
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\usepackage{fourier}
+%\documentclass[xcolor=dvipsnames]{beamer} 
+\usepackage[dvipsnames]{xcolor}
+%\definecolor{MyPHDcolor}{RGB}{0,97,143}
+\definecolor{MyPHDcolor}{rgb}{0.06, 0.3, 0.57}
+
+
+\usepackage{sectsty}
+\usepackage{tabularx}
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+\usepackage{subcaption}
+\usepackage{url}
+%\usepackage{hyperref}
+%\usepackage{avant}
+%\usepackage{eulervm} % Euler math
+%\usepackage[colorlinks,citecolor=Blue,urlcolor=Blue]{hyperref}
+%\usepackage[colorlinks,allcolors=Blue]{hyperref}
+\usepackage[colorlinks,allcolors=MyPHDcolor,bookmarks=true,bookmarksopen=false]{hyperref}
+\usepackage{datetime}
+\usepackage{booktabs}
+\usepackage{siunitx}
+\usepackage{mdframed}
+\usepackage{scalerel}
+
+
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\newtheorem*{definition}{Definition}
+\newtheorem{lemma}{Lemma}
+\newtheorem{corollary}{Corollary}
+
+\renewcommand{\thesubfigure}{\Alph{subfigure}}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH] \THEDAY,\;\THEYEAR}
+
+
+
+\usepackage{geometry}
+\newgeometry{vmargin={20mm}, hmargin={20mm,20mm}}   % set the margins
+
+\bibliographystyle{econometrica}
+%\bibliographystyle{ecta}
+%------------------------------------------------------------------------------------------------------------------------------------------------
+%% Spacing
+
+\onehalfspacing
+%\doublespacing
+%------------------------------------------------------------------------------------------------------------------------------------------------
+
+\begin{document}
+
+\title{Sectoral Exposure to Aggregate Fluctuations,   \\
+Employment Risk and Monetary Policy\thanks{I am grateful to Efi Adamopoulou, Florin Bilbiie, Lena Dr{\"a}ger, Eren G{\"u}rer, Philipp Harms, Mehdi Hosseinkouchack, Leo Kaas, Tobias Krahnke, Matija Lozej, Victor Gimenez Perales, Philip Sauré, Mathias Trabandt for helpful comments and suggestions. I am also thankful to the seminar participants at the T2M 2023, the 2022 Frankfurt--Mannheim Macro Workshop, and the 2022 FFM--MN PhD Conference.  All errors are my own. First version: September 2022.
+}
+\vspace{.5cm}
+}
+
+\author{\large{Uro\v{s} Herman}\thanks{%
+The Graduate School of Economics, Finance, and Management (GSEFM), Goethe University Frankfurt, Germany. E-Mail: \href{mailto:herman.uros@gmail.com}{herman.uros@gmail.com}. 
+} 
+\vspace{-0.1cm}
+%\\GSEFM
+\date{\vspace{-0.2cm} May, 2023 \\ %\monthyeardate\today \\
+\vspace{0.5cm}
+%\textsc{Job Market Paper}
+	}
+}
+
+\maketitle
+
+\vspace{-1.2cm}
+\begin{center}
+{%\textbf{PRELIMINARY AND INCOMPLETE.} \\
+\vspace{-.2cm} 
+Please check \href{https://drive.google.com/file/d/1IhxxZQd-_iwrBtQYH2dTJysVaKN6IWyq/view?usp=share_link}{\textsc{here}} for the most recent version. 
+}
+\end{center}
+\setstretch{1.1} 
+\vspace{0.2cm}
+\begin{abstract}
+This paper studies the role of sector-specific employment risk in the transmission of monetary policy. I start with the observation that sectoral net worker flows can be informative about sectoral employment risk and, thus, the strength of the sectoral precautionary saving motive. I find that households working in cyclical sectors, which are more exposed to business cycles and feature higher employment risk, tend to accumulate more net liquid assets than households working in sectors less exposed to business cycle fluctuations. This difference in net liquid assets is larger at low wealth levels. Then, I build a two-sector Heterogeneous Agent New Keynesian model in which sectors differ in terms of endogenous employment risk and study the transmission mechanism of monetary policy. The consumption response following an expansionary monetary policy is larger and more persistent in the sector with higher employment risk. I identify two channels that determine through which employment risk affects sectoral and aggregate consumption responses.
+\end{abstract}
+\vspace{4cm} %\vspace{2cm}
+{\noindent \textbf{Keywords:} {Incomplete markets, Labour markets, Monetary policy, Business cycles  
+%\vspace{0.2cm}}
+%{\noindent \textbf{JEL Classification:}  E24, E32, E40, E52, J64} 
+
+
+%\pagenumbering{5}
+\thispagestyle{empty} %\setcounter{page}{5} 
+
+\newpage
+\setcounter{page}{1}
+\onehalfspacing
+
+%------------------------------------------------------------------------------------------------------------------------------------------------
+
+\input{Intro_v33}
+%\newpage
+\input{2periodModel_v11}
+%\newpage
+\input{Empirics_v16}
+%\newpage
+\input{Model_v31}
+%\newpage
+\input{Results_v34} 
+%\newpage
+\input{Conclusion_v1}
+\newpage
+\bibliography{JMP_Bibliography}
+\newpage
+\input{Appendix_v27}
+
+
+%%%%% OLD INTROs
+
+
+%  (February 2023) This paper studies the role of sector-specific employment risk in the transmission of monetary policy. I start with the observation that sectoral net worker flows can be informative about sectoral employment risk and, thus, the strength of the sectoral precautionary saving motive. I find that households working in cyclical sectors, which are more exposed to business cycles and feature higher employment risk, accumulate more net liquid assets than households working in sectors less exposed to business cycle fluctuations. Moreover, the difference in net liquid assets is larger at low wealth levels. Then, I build a two-sector Heterogeneous Agent New Keynesian model in which the two sectors differ in terms of endogenous employment risk and study the transmission mechanism of monetary policy. I find that the consumption response of an expansionary monetary policy is larger and more persistent in the cyclical sector than in the non-cyclical sector. The reason is twofold. First, higher employment risk in the cyclical sector increases sectoral MPCs. Second, higher employment risk also generates more procyclical employment. As a result, income increase is larger in the high-MPC sector, increasing consumption response in the cyclical sector above the response in the non-cyclical one.
+
+
+% (January 2023) This paper studies the role of sector-specific employment risk in the transmission of monetary policy. I start with the observation that sectoral net worker flows can be informative about sectoral employment risk and, thus, the strength of the sectoral precautionary saving motive. Using households' balance sheet data, I find that households working in cyclical sectors, which are more exposed to business cycles and feature higher employment risk, accumulate more net liquid assets than those working in sectors less exposed to business cycle fluctuations. Moreover, this difference is larger at low wealth levels. Then, I build a two-sector Heterogeneous Agent New Keynesian model and carefully study how differences in employment risk across sectors affect the monetary transmission mechanism. My model predicts that the consumption response of an expansionary monetary policy is larger and more persistent in the cyclical sector than in the non-cyclical sector. The reason is twofold. First, higher employment risk in the cyclical sector increases sectoral MPC. Second, higher employment risk also generates more procyclical employment and hence income. As a result, income increase is larger in the sector with higher MPCs, pushing consumption in the cyclical sector above the response in the non-cyclical one. This effect is larger with higher substitutability between the two sectors and when the shock is more persistent. %The reason is that households in the cyclical sector have the most procyclical income and the highest MPC.
+
+% (November 2022) This paper studies the role of sector-specific employment risk in the transmission of monetary policy. I start with the observation that sectoral net worker flows can be informative about sectoral employment risk and, thus, the strength of the sectoral precautionary saving motive. Using households' balance sheet data, I find that households working in sectors with higher employment risk accumulate relatively more net liquid assets than those working in sectors where employment risk is lower. This difference is larger at low wealth levels. Then, I build a two-sector Heterogeneous Agent New Keynesian model to explore how differences in employment risk across sectors affect the monetary transmission mechanism and calibrate it to match sector-specific separation rates in the data. My model predicts that the consumption response of an expansionary monetary policy is larger in the sector with higher employment risk. Two channels drive this result. First, a high separation rate increases employment risk, which increases the average MPC in the sector. Second, with a higher separation rate, the labour market becomes more fluid, reducing real marginal costs and increasing sectoral labour demand and income.
+
+% (October 2022) This paper studies the role of sector-specific employment risk in the transmission of monetary policy. There are two main contributions of the paper. First, I show that sectoral net worker flows can be informative about sectoral employment risk and, thus, the strength of the sectoral precautionary saving motive. Using households' balance sheet data, I find that households working in sectors with higher employment risk accumulate relatively more net liquid assets than those working in sectors where employment risk is lower. This difference is larger at low wealth levels. Second, I build a two-sector Heterogeneous Agent New Keynesian model and show how differences in employment risk across sectors affect the transmission mechanism of monetary policy. In the model, differences in employment risk are captured through differences in separation rates. My model predicts that the consumption response of an accommodative monetary policy is larger in the sector with higher employment risk. I identify two channels that drive this result. First is the \textit{market incompleteness channel}; a higher separation rate increases employment risk, which increases the average MPC in the sector. Second is the \textit{relative labour demand channel}; with a higher separation rate, the labour market becomes more fluid, which reduces sectoral production costs and increases sectoral labour demand and households' income. 
+%
+
+%(October 2022)This paper studies the role of sectoral employment risk in the transmission of monetary policy. There are two main contributions of the paper. First, I show that sectoral net worker flows can be informative about sectoral employment risk and, thus, the strength of sectoral precautionary saving motive. Using households' balance sheet data, I find that households working in sectors with higher employment risk accumulate relatively more net liquid assets, especially at low wealth levels. Second, I build a two-sector Heterogeneous Agent New Keynesian model and show how differences in employment risk across sectors affect the transmission mechanism of monetary policy. In line with the empirical evidence, I capture higher sectoral employment risk by imposing a higher job separation rate in that sector. My model predicts that change in consumption is larger in the sector with higher employment risk. Two channels determine the effect of a monetary policy shock on sectoral and aggregate consumption. First is the \textit{market incompleteness channel}; a higher separation rate increases employment risk, which increases the average MPC in the sector. Second is the \textit{relative labour demand channel}; with a higher separation rate, the labour market becomes more fluid, which reduces sectoral production costs and increases sectoral labour demand and households\rq{} income.
+
+
+
+
+%(September 2022) This paper studies the role of sectoral employment risk in the transmission of monetary policy. There are two main contributions of the paper. The first contribution empirically shows that sectoral net worker flows can be informative about sectoral employment risk and, therefore, the amount of sectoral precautionary savings. My second contribution is to show, using a two-sector Heterogeneous Agent New Keynesian model, how differences in employment risk due to sector-specific labour market characteristics affect the transmission mechanism of monetary policy. In line with the empirical evidence, I capture higher sectoral employment risk by imposing a higher job separation rate in that sector. My model predicts that change in consumption is larger in the sector with a higher separation rate. I identify two channels that determine the effect of a monetary policy shock on sectoral and aggregate consumption. First, a higher separation rate increases employment risk, making consumption function more concave and increasing the average sectoral MPC (i.e. "market incompleteness channel"). Second, a higher separation rate also makes the labour market more fluid, reducing relative prices in that sector, which increases sectoral labour demand and hence households\rq{} income (i.e. "relative labour demand channel").
+
+
+
+
+\end{document}
