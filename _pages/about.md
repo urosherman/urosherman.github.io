@@ -9,9 +9,9 @@ profile:
   image: UHTwitter.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>GSEFM, Goethe University Frankfurt</p>
-    <p>Theodor-W.-Adorno-Platz 3</p>
-    <p>60629, Frankfurt am Main</p>
+    <p>Aix-Marseille School of Economics (AMSE)</p>
+    <p>5-9 Boulevard Maurice Bourdet</p>
+    <p>13205 Marseille Cedex 1</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
