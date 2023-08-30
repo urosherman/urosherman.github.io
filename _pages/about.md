@@ -18,8 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my homepage. I am a PhD Candidate at the [Graduate School of Economics, Finance and Management](https://www.gsefm.eu/about-us.html) (GSEFM) at [Goethe University Frankfurt](https://www.wiwi.uni-frankfurt.de/en/home.html), Germany. 
+Welcome to my homepage. I am a Post-doctoral fellow at [Aix-Marseille School of Economics (AMSE)](https://www.amse-aixmarseille.fr/en).
 
 My research interests lie primarily in `macroeconomics`, with a special focus on monetary and fiscal policy within `Heterogeneous-Agent New Keynesian models`, and the intersection of macroeconomics with `international and corporate finance`. Some of my recent work can be found [here](/publications/). 
 
-From 2009 to 2015 I worked as a (Senior) Economist in the Analysis and Research Department @ [Bank of Slovenia](https://www.bsi.si/en).
+From 2009 to 2015, I worked as a (Senior) Economist in the Analysis and Research Department @ [Bank of Slovenia](https://www.bsi.si/en).
