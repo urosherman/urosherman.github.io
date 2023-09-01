@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: UH_headshot.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Aix-Marseille School of Economics (AMSE)</p>
     <p>5-9 Boulevard Maurice Bourdet, CS 50498</p>
