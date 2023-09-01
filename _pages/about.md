@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Update_profile.jpg
+  image: UH_headshot.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>Aix-Marseille School of Economics (AMSE)</p>
