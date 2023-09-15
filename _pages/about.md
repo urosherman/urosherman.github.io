@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my homepage. I am a Post-doctoral fellow at [Aix-Marseille School of Economics (AMSE)](https://www.amse-aixmarseille.fr/en).
+Welcome to my homepage. I am a Postdoctoral Researcher at [Aix-Marseille School of Economics (AMSE)](https://www.amse-aixmarseille.fr/en).
 
 My research interests lie primarily in `macroeconomics`, with a special focus on monetary and fiscal policy within `Heterogeneous-Agent New Keynesian models`, and the intersection of macroeconomics with `international and corporate finance`. Some of my recent work can be found [here](/publications/). 
 
