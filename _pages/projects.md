@@ -11,4 +11,4 @@ horizontal: true
 
 
 
-**1. Optimal Stabilization Policies with Unequal Exposure to Business Cycles**
+**- Optimal Stabilization Policies with Unequal Exposure to Business Cycles**
