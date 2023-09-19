@@ -2,13 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: #...what I work on...
+description: here is what I am currently working on:
 nav: true
 nav_order: 3
 display_categories: 
-horizontal: false
+horizontal: true
 ---
 
-here is what I am currently working on:
+
 
 **1. (Optimal) Stabilization Policies and Unequal Exposure to Business Cycles**
