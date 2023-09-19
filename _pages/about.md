@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my homepage. I am a Postdoctoral researcher at [Aix-Marseille School of Economics (AMSE)](https://www.amse-aixmarseille.fr/en).
 
-My research interests lie primarily in `macroeconomics`, with a special focus on monetary and fiscal policy within `Heterogeneous-Agent New Keynesian models`, and the intersection of macroeconomics with `international and corporate finance`. Some of my recent work can be found [here](/publications/). 
+I am a `macroeconomist`, working on monetary and fiscal policy within `Heterogeneous-Agent New Keynesian models`, and the intersection of macroeconomics with `international and corporate finance`. Some of my recent work can be found [here](/publications/). 
 
 From 2009 to 2015, I worked as a (Senior) Economist in the Analysis and Research Department @ [Bank of Slovenia](https://www.bsi.si/en).
