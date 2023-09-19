@@ -11,4 +11,4 @@ horizontal: false
 
 Here are the projects I am currently working on:
 
-**1.(Optimal) Stabilization Policies and Unequal Exposure to Business Cycles**
+**1. (Optimal) Stabilization Policies and Unequal Exposure to Business Cycles**
