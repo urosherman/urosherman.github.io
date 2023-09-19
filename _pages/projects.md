@@ -9,6 +9,6 @@ display_categories:
 horizontal: false
 ---
 
-Here are some of the projects I am currently working on:
+Here is what I am currently working on:
 
 **1. (Optimal) Stabilization Policies and Unequal Exposure to Business Cycles**
