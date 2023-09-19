@@ -11,5 +11,4 @@ horizontal: false
 
 Here are the projects I am currently working on:
 
-
-1. **(Optimal) Unemployment Insurance and Unequal Exposure to Business cycles** 
+*1. (Optimal) Stabilization Policies with Unequal Exposure to Business cycles*
