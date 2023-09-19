@@ -24,6 +24,6 @@ Since September 2023, I have been  a `Postdoctoral Researcher` at [Aix-Marseille
 
 I am a `macroeconomist` working on monetary and fiscal policy within `Heterogeneous-Agent New Keynesian models` and at the intersection of macroeconomics with `international and corporate finance`. 
  
-Some of my recent research can be found [here](/publications/).
+Some of my recent work can be found [here](/publications/).
 
 From 2009 to 2015, I worked as a (Senior) Economist in the Analysis and Research Department @ [Bank of Slovenia](https://www.bsi.si/en).
