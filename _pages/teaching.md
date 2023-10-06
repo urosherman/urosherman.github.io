@@ -6,7 +6,10 @@ description:
 nav: true
 nav_order: 5
 ---
-
+##### Aix-Marseille University, Marseille
+###### Macroeconomic Cycles (MSc)
+- Lectures, 2023
+  
 ##### Johannes Gutenberg-University, Mainz
 
 ###### New Keynesian Economics (MSc)   
