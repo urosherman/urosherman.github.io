@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Updated version [Who Gets Jobs Matters: Monetary Policy and the Labour Market in HANK and SAM](/assets/pdf/HANK_SAM_June2023.pdf), with M. Lozej, is now ECB Working Paper!
+[Who Gets Jobs Matters: Monetary Policy and the Labour Market in HANK and SAM](/assets/pdf/HANK_SAM_June2023.pdf), with M. Lozej, is now an _ECB Working Paper_!
