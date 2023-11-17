@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my homepage. 
 
-I am a `macroeconomist` working on monetary and fiscal policy within `Heterogeneous-Agent New Keynesian models`, and at the intersection of macroeconomics with `international and corporate finance`. 
+I am a `Macroeconomist` working on monetary and fiscal policy within `Heterogeneous-Agent New Keynesian models`, and at the intersection of macroeconomics with `International and Corporate Finance`. 
 
 Since September 2023, I have been  a `Postdoctoral Researcher` at [Aix-Marseille School of Economics (AMSE)](https://www.amse-aixmarseille.fr/en). 
  
