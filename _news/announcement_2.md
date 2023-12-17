@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Who Gets Jobs Matters: Monetary Policy and the Labour Market in HANK and SAM](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2850%7E806e7cc56c.en.pdf), with M. Lozej, is now available as an _ECB Working Paper_
+[Who Gets Jobs Matters: Monetary Policy and the Labour Market in HANK and SAM](/assets/pdf/HANK_SAM_November2023.pdf), with M. Lozej, is now available as an _ECB Working Paper_
