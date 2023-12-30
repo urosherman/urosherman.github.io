@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 ##### Aix-Marseille University, Marseille
-###### Macroeconomic Cycles (MSc -- M2, ETE)
+###### Macroeconomic Cycles (MSc - M2, ETE)
 - Lectures, 2023
   
 ##### Johannes Gutenberg-University, Mainz
