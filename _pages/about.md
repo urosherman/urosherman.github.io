@@ -26,4 +26,4 @@ Since September 2023, I have been  a `Postdoctoral Researcher` at [Aix-Marseille
  
 Some of my recent work can be found [here](/publications/).
 
-From 2009 to 2015, I worked as a (Senior) Economist in the Analysis and Research Department @ [Bank of Slovenia](https://www.bsi.si/en).
+# From 2009 to 2015, I worked as a (Senior) Economist in the Analysis and Research Department @ [Bank of Slovenia](https://www.bsi.si/en).
