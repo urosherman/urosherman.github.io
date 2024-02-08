@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Sectoral Exposure to Aggregate Fluctuations, Employment Risk and Monetary Policy](/assets/pdf/herman_twosector_update.pdf) [updated]
+[Sectoral Exposure to Aggregate Fluctuations, Employment Risk and Monetary Policy](/assets/pdf/herman_twosector_update.pdf)
