@@ -12,4 +12,5 @@ horizontal: true
 
 
 ###### -- (Optimal) Stabilization Policies with Unequal Exposure to Business Cycles
+###### -- Financial Fragmentation and Inequalities in the Eurozone
 
