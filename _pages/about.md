@@ -22,7 +22,7 @@ Welcome to my homepage.
 
 I am a `Postdoctoral Researcher` at [Aix-Marseille School of Economics (AMSE)](https://www.amse-aixmarseille.fr/en). 
 
-My primary research interests include monetary and fiscal policy within heterogeneous-agent models, labour markets, and the intersection of macroeconomics with international and corporate finance.
+My primary research interests include monetary and fiscal policy, labour markets, and the intersection of macroeconomics with international and corporate finance.
 
-Some of my recent work can be found [here](/publications/).
+Some of my work can be found [here](/publications/).
 
