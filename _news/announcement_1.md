@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- [Determinants and Effects of Countries’ External Capital Structure: A Firm-Level Analysis](/assets/pdf/ECS_2023.pdf), with T. Krahnke, was published in the _IMF Working Paper Series_ 
+ [Determinants and Effects of Countries’ External Capital Structure: A Firm-Level Analysis](/assets/pdf/ECS_2024.pdf), with T. Krahnke, was published in the _IMF Working Paper Series_ 
