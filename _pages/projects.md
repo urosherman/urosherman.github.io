@@ -12,5 +12,5 @@ horizontal: true
 
 
 #####  Financial Fragmentation and Inequalities in the Eurozone
-###### -- Monetary Policy Transmission and Durable Goods Demand in a Monetary Union
+###### - Monetary Policy Transmission and Durable Goods Demand in a Monetary Union
 
