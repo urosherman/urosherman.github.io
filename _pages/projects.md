@@ -13,5 +13,5 @@ horizontal: true
 
 ##### **Financial Fragmentation and Inequalities in the Eurozone**
 ###### *Durable Goods Demand and Monetary Policy Transmission in a Monetary Union (with Gagnon, MH., and Gimet, C.)*
-###### *Macroprudential policies and inequalities in Europe: the impact of portfolio composition (with Gagnon, MH., and Gimet, C.)*
+###### *Macroprudential Policies and Inequalities in Europe: The Impact of Portfolio Composition (with Gagnon, MH., and Gimet, C.)*
 
