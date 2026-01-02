@@ -15,3 +15,6 @@ horizontal: true
 ###### Durable Goods Demand and Monetary Policy Transmission in a Monetary Union *(with Gagnon, MH., and Gimet, C.)* 
 ###### Macroprudential Policies and Inequalities in Europe: The Impact of Portfolio Composition *(with Gagnon, MH., and Gimet, C.)*
 
+##### **Stabilisation and inequality**
+###### (Optimal) Stabilisation Policies with Unequal Exposure to Business Cycles
+
