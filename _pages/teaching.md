@@ -9,13 +9,13 @@ nav_order: 5
 
 ##### School of Economics and Business, University of Ljubljana
 ###### Asset Pricing Theory (MSc)
-- Lectures, 2024
+- Guest Lectures, 2024
 
 ##### Aix-Marseille University, Marseille
 ###### Macroeconomic Cycles (MSc--M2/PhD)
 - Lectures, 2023
   
-##### Johannes Gutenberg-University, Mainz
+##### Johannes Gutenberg University, Mainz
 
 ###### New Keynesian Economics (MSc)   
 - Lectures, 2018/19
