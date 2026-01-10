@@ -18,5 +18,5 @@ horizontal: true
 <br>
 
 ##### **Stabilisation and Inequality**
-- (Optimal) Stabilisation Policies with Unequal Exposure to Business Cycles
+- Stabilisation Policies with Unequal Exposure to Business Cycles
 
