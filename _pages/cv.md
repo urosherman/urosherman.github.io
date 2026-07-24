@@ -5,5 +5,5 @@ title: cv
 nav: true
 description: 
 nav_order: 1
-cv_pdf: HermanCV.pdf
+cv_pdf: HermanCV_updt.pdf
 ---
