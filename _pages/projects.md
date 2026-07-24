@@ -17,6 +17,9 @@ horizontal: true
 
 <br>
 
+##### **Sectoral Heterogeneity and Monetary Policy**
+- ectoral Exposure to Aggregate Fluctuations, Employment Risk and Monetary Policy
+
 ##### **Stabilisation and Inequality**
 - Stabilisation Policies with Unequal Exposure to Business Cycles
 
