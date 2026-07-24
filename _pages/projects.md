@@ -2,7 +2,7 @@
 layout: page
 title: research projects
 permalink: /projects/
-description: ongoing research and work in progress 
+description: ongoing research and work in progress (available upon request) 
 nav: true
 nav_order: 3
 display_categories: 
