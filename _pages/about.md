@@ -4,11 +4,11 @@ title: about
 permalink: /
 subtitle:
 
-profile:
-  align: right
-  image: 
-  image_circular: false # crops the image to make it circular
-  address: >
+#profile:
+#  align: right
+#  image: 
+#  image_circular: false # crops the image to make it circular
+#  address: >
     <p>Aix-Marseille School of Economics (AMSE)</p>
     <p>5-9 Boulevard Maurice Bourdet, CS 50498</p>
     <p>13205 Marseille Cedex 1</p>
