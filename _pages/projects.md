@@ -12,8 +12,8 @@ horizontal: true
 
 
 ##### **Financial Fragmentation and Inequalities in the Eurozone**
-- [Macroprudential Policies and Inequalities in Europe: The Impact of Portfolio Composition](https://hal.science/hal-05666769v1)* (with Gagnon, MH., and Gimet, C.)*
-- Durable Goods Demand and Monetary Policy Transmission in a Monetary Union* (with Gagnon, MH., and Gimet, C.)*
+- [Macroprudential Policies and Inequalities in Europe: The Impact of Portfolio Composition](https://hal.science/hal-05666769v1) *(with Gagnon, MH., and Gimet, C.)*
+- Durable Goods Demand and Monetary Policy Transmission in a Monetary Union *(with Gagnon, MH., and Gimet, C.)*
 
 ##### **Sectoral Heterogeneity and Monetary Policy**
 - Sectoral Exposure to Aggregate Fluctuations, Employment Risk and Monetary Policy
