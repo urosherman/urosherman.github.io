@@ -24,5 +24,5 @@ I am a **Postdoctoral Researcher** at [Aix-Marseille School of Economics (AMSE)]
 
 My primary research interests include heterogeneous-agent macroeconomics and monetary economics, labour markets, and the intersection of macroeconomics with international and corporate finance.
 
-Some of my work can be found [here](/publications/). 
+Here is my [CV](/assets/pdf/HermanCV_updt.pdf). Some of my publications can be found [here](/publications/). 
 
