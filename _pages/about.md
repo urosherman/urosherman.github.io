@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- Welcome to my homepage. -->
+Welcome to my homepage. 
 
-I am a **Postdoctoral Researcher** at [Aix-Marseille School of Economics (AMSE)](https://www.amse-aixmarseille.fr/en). 
+<!--I am a **Postdoctoral Researcher** at [Aix-Marseille School of Economics (AMSE)](https://www.amse-aixmarseille.fr/en).  -->
 
 My primary research interests include heterogeneous-agent macroeconomics and monetary economics, labour markets, and the intersection of macroeconomics with international and corporate finance.
 
