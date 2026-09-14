@@ -8,6 +8,9 @@ nav_order: 5
 ---
 
 ##### School of Economics and Business, University of Ljubljana
+###### Advanced Macroeconomics (MSc)
+- Tutorials, 2026
+
 ###### Asset Pricing Theory (MSc)
 - Guest Lectures, 2024
 
