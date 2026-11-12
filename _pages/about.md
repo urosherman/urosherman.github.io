@@ -24,5 +24,5 @@ Welcome to my homepage.
 
 My research interests include heterogeneous-agent macroeconomics, monetary economics, labour markets, macro-finance, and international and corporate finance.
 
-Here is my [CV](/assets/pdf/HermanCV_updt.pdf). Some of my publications can be found [here](/publications/). 
+Here is my [CV](/assets/pdf/HermanCV_updt.pdf). Some of my publications can be found [here](/publications/).  
 
